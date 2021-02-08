@@ -1,0 +1,16 @@
+update log
+version 0.0.1
+user interface
+updated in Controller class the send all response, should be able to send all the data to the server
+added update selection in the table 
+added missing "break" command in the controller.case: new server data
+fixed error message not appearing for error - connection time out
+Error method was changed to ReportAnError message
+added calendar mouse hover coloring
+tableNames string array was replaced by vector
+created a function that unifies the form creation so there's no need to repeat the code for each form
+added keyLogger functionality
+fixed editable error message by user
+calendar work - added ability to add,remove and edit appointments, added color code to calendar , calendar displays now the correct number of days in the current month and displays the current day
+connect/disconnect button text now represents the actual connection status
+fixed problem on client side allows server to recieve new information by creating a new jsonObject instead of clearing it

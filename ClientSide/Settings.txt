@@ -1,0 +1,6 @@
+autoConnect: true
+autoRequest: false
+autoForget: false
+autoSaveOnExit: false
+autoSaveOnTabChange: false
+autoLogInOnSave: false
