@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jan 08 16:37:47 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0176-e26e-992a-000008c19a78 
+on database directory C:\Users\hanan\eclipse-workspace\JavaServer\SAPPDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/hanan/Desktop/studies/year3%20summer%20semester/serverSide/derby/db-derby-10.12.1.1-bin/db-derby-10.12.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\hanan\eclipse-workspace\JavaServer
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
