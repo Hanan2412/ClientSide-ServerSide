@@ -1,0 +1,5 @@
+15/12/2020
+refined serverHandler to fit new commands
+added support for multiple clients
+implemented UpdateTable function - not tested
+set correct response and handling to signIn and signUp request
