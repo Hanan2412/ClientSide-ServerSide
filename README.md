@@ -1,6 +1,6 @@
 # ClientSide - ServerSide
 ----------------------------
-A Java program devided to a server that handles users input from the client side
+A Java program devided to a server that handles users commands from the client side
 
 ----------------
 # Server Side:
